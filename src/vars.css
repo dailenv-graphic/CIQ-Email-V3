@@ -1,0 +1,121 @@
+/* Figma Styles of your File */:root {
+  /* Colors */
+  --athens-gray: #ffe8ec;
+  --chateau-green: #4caf50;
+  --malibu: #6b9fff;
+  --manatee: #8888a4;
+  --mirage: #1a1f36;
+  --mulled-wine: #4a4a68;
+  --pastel-pink: #ffd0d8;
+  --periwinkle: #ffd0d8;
+  --sea-green: #2e7d32;
+  --storm-gray: #6b6b8a;
+  --white: #ffffff;
+  --white-70: rgba(255, 255, 255, 0.70);
+  --white-athens-gray-athens-gray: linear-gradient(to left, #f4f4f7, #f4f4f7), linear-gradient(to left, #f4f4f7, #f4f4f7), linear-gradient(to left, #ffffff, #ffffff);
+
+  /* Fonts */
+  --semantic-data-font-family: Arial-Narrow, sans-serif;
+  --semantic-data-font-size: 15px;
+  --semantic-data-line-height: 24px;
+  --semantic-data-font-weight: 400;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Regular, sans-serif;
+  --semantic-data-font-size: 11px;
+  --semantic-data-line-height: normal;
+  --semantic-data-font-weight: 400;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Regular, sans-serif;
+  --semantic-data-font-size: 14px;
+  --semantic-data-line-height: 22px;
+  --semantic-data-font-weight: 400;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-data-font-size: 14px;
+  --semantic-data-line-height: normal;
+  --semantic-data-font-weight: 700;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-data-font-size: 15px;
+  --semantic-data-line-height: 24px;
+  --semantic-data-font-weight: 700;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Regular, sans-serif;
+  --semantic-data-font-size: 16px;
+  --semantic-data-line-height: 26px;
+  --semantic-data-font-weight: 400;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Italic, sans-serif;
+  --semantic-data-font-size: 16px;
+  --semantic-data-line-height: 26px;
+  --semantic-data-font-weight: 400;
+  --semantic-data-font-style: italic;
+  --semantic-heading-1-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-heading-1-font-size: 30px;
+  --semantic-heading-1-line-height: 38px;
+  --semantic-heading-1-font-weight: 700;
+  --semantic-heading-1-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-data-font-size: 18px;
+  --semantic-data-line-height: 26px;
+  --semantic-data-font-weight: 700;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-data-font-size: 16px;
+  --semantic-data-line-height: 26px;
+  --semantic-data-font-weight: 700;
+  --semantic-data-font-style: normal;
+  --semantic-data-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-data-font-size: 20px;
+  --semantic-data-line-height: 44px;
+  --semantic-data-font-weight: 700;
+  --semantic-data-font-style: normal;
+  --semantic-heading-3-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-heading-3-font-size: 18px;
+  --semantic-heading-3-line-height: normal;
+  --semantic-heading-3-font-weight: 700;
+  --semantic-heading-3-font-style: normal;
+  --semantic-link-font-family: LiberationSans-Regular, sans-serif;
+  --semantic-link-font-size: 12px;
+  --semantic-link-line-height: normal;
+  --semantic-link-font-weight: 400;
+  --semantic-link-font-style: normal;
+  --semantic-link-font-family: LiberationSans-Bold, sans-serif;
+  --semantic-link-font-size: 17px;
+  --semantic-link-line-height: normal;
+  --semantic-link-font-weight: 700;
+  --semantic-link-font-style: normal;
+  --semantic-link-underline-font-family: LiberationSans-Regular, sans-serif;
+  --semantic-link-underline-font-size: 12px;
+  --semantic-link-underline-line-height: normal;
+  --semantic-link-underline-font-weight: 400;
+  --semantic-link-underline-font-style: normal;
+
+  /* Effects */
+  --white-box-box-shadow:  0px 4px 54.3px 0px rgba(228, 224, 255, 1.00);
+}
+/* Figma Color Variables of your File */:root, [data-htmltodesign-mode=mode-1] {
+  /* mode-1 */
+  --color-white-solid: #ffffff;
+  --color-grey-96: #f4f4f7;
+  --color-grey-95: #ffe8ec;
+  --color-blue-16: #1a1f36;
+  --color-blue-48: #6b6b8a;
+  --color-blue-35: #4a4a68;
+  --color-grey-97: #fff0f3;
+  --color-grey-91: #ffd0d8;
+  --color-azure-50: #0066ff;
+  --color-blue-60: #6b4ce6;
+  --color-red-56: #e63946;
+  --color-red-71: #ff6b8a;
+  --color-red-50: #d62839;
+  --color-grey-94: #e8f5e9;
+  --color-green-84: #c8e6c9;
+  --color-green-49: #4caf50;
+  --color-green-34: #2e7d32;
+  --color-violet-18: #2d1f3d;
+  --color-rose-18: #3d1f35;
+  --color-white-70: rgba(255, 255, 255, 0.70);
+  --color-blue-21: #252a45;
+}
+
