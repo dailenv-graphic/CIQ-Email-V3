@@ -1,11 +1,11 @@
 import "./styles.css";
 import "./tailwind.css";
-import { Email1 } from "./Email1/Email1";
+import { Email2 } from "./Email2/Email2";
 
 export default function App() {
   return (
     <div>
-      <Email1 />
+      <Email2 />
     </div>
   );
 }
